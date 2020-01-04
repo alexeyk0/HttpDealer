@@ -12,7 +12,6 @@
 		F4FF469023C0AD9B00F2D801 /* HttpHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FF468E23C0AD9B00F2D801 /* HttpHandler.swift */; };
 		F4FF46C623C0B7E500F2D801 /* HttpDealerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FF46C523C0B7E500F2D801 /* HttpDealerTests.swift */; };
 		F4FF46C823C0B7E500F2D801 /* HttpDealer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4FF468223C0AD7D00F2D801 /* HttpDealer.framework */; };
-		F4FF46E323C0DF3C00F2D801 /* travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = F4FF46E223C0DF3C00F2D801 /* travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,7 +33,6 @@
 		F4FF46C323C0B7E500F2D801 /* HttpDealerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HttpDealerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4FF46C523C0B7E500F2D801 /* HttpDealerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpDealerTests.swift; sourceTree = "<group>"; };
 		F4FF46C723C0B7E500F2D801 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F4FF46E223C0DF3C00F2D801 /* travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +79,6 @@
 				F4FF468E23C0AD9B00F2D801 /* HttpHandler.swift */,
 				F4FF468D23C0AD9B00F2D801 /* HttpHandlerDelegate.swift */,
 				F4FF468623C0AD7D00F2D801 /* Info.plist */,
-				F4FF46E223C0DF3C00F2D801 /* travis.yml */,
 			);
 			path = HttpDealer;
 			sourceTree = "<group>";
@@ -188,7 +185,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F4FF46E323C0DF3C00F2D801 /* travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
