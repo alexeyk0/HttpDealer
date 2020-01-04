@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: HttpDealer.xcodeproj # path to your xcodeproj folder
+xcode_scheme: HttpDealerTests
+xcode_destination: platform=iOS Simulator,OS=11.2.1,name=iPhone 11 Pro Max (9.7-inch)
