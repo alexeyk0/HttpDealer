@@ -35,6 +35,7 @@
 		F4FF46C523C0B7E500F2D801 /* HttpDealerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpDealerTests.swift; sourceTree = "<group>"; };
 		F4FF46C723C0B7E500F2D801 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4FF46E423C0EAB100F2D801 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; name = .travis.yml; path = ../../.travis.yml; sourceTree = "<group>"; };
+		F4FF46E623C0FBFF00F2D801 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		F4FF467823C0AD7D00F2D801 = {
 			isa = PBXGroup;
 			children = (
+				F4FF46E623C0FBFF00F2D801 /* .travis.yml */,
 				F4FF468423C0AD7D00F2D801 /* HttpDealer */,
 				F4FF46C423C0B7E500F2D801 /* HttpDealerTests */,
 				F4FF468323C0AD7D00F2D801 /* Products */,
