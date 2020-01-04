@@ -44,10 +44,6 @@ public class HttpHandler:NSObject {
         self.session?.finishTasksAndInvalidate()
     }
     
-    private func travis() {
-        
-    }
-    
     deinit {
         self.session?.finishTasksAndInvalidate()
     }
